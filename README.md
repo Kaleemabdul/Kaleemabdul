@@ -3,7 +3,7 @@
 <a href="https://github.com/Kaleemabdul"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  
 <a href="https:// https://www.facebook.com/kaleem.ansari.5855/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a> 
 <a href="mailto:kaleemabdul654@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  
-<a href=" https://www.youracclaim.com/users/abdul-kaleem.a2961648/badges"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/circle-cropped.png" width="35"/> </a><a href="https://www.hackerrank.com/ kaleem_abdul"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/hackerank.jpg" width="42" /> </a>
+<a href="https://www.youracclaim.com/users/abdul-kaleem.a2961648/badges"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/circle-cropped.png" width="35"/> </a><a href="https://www.hackerrank.com/ kaleem_abdul"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/hackerank.jpg" width="42" /> </a>
 
  
 
